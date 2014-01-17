@@ -1,7 +1,7 @@
 <html>
 <head>
 <title>Welcome</title>
-<link rel="stylesheet" type="text/css" href="test.css">
+<link rel="stylesheet" type="text/css">
 </head>
 <body>
 	<h1>Your Welcome!</h1>
